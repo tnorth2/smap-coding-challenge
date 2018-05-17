@@ -1,0 +1,6 @@
+Django==1.11
+
+Python modules:
+numPy
+csv
+matplotlib (and matplotlib.pyplot)
